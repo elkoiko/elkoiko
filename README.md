@@ -1,9 +1,9 @@
 # Hi there, I'm Thomas 👋
 
-I am currently studying as a software engineer on a work training program.
+I am currently studying as a C# .NET software engineer on a work training program.
 
-- 🔭 I’m currently working on a playground to learn Go while resoving Advent Of Code's puzzles ([Advent2019](https://github.com/Koinot-Academy/advent2019/))
-- 🌱 I’m currently learning the Go language
+- 🔭 I’m currently working with a friend on a website to display statistics about sources used by a french YouTube news channel: [Sources Hugo Décrypte](https://github.com/Sources-Hugo-Decrypte/sources-hugo-decrypte-web)
+- 🌱 I’m currently learning the React.js framework and everything related to web development
 
 ## 🔗 My links
 
